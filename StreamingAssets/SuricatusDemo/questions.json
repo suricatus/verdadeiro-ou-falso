@@ -1,0 +1,262 @@
+{
+  "schemaVersion": "1",
+  "clientName": "Suricatus Games (demo do site)",
+  "questions": [
+    {
+      "id": "nat-01",
+      "statement": "O polvo tem três corações.",
+      "isTrue": true,
+      "explanation": "Dois corações bombeiam o sangue para as brânquias e o terceiro leva o sangue para o resto do corpo.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-02",
+      "statement": "Os morcegos são cegos.",
+      "isTrue": false,
+      "explanation": "Todas as espécies de morcego enxergam. Muitas também usam a ecolocalização, uma espécie de sonar, para caçar no escuro.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-03",
+      "statement": "Os suricatos se revezam como sentinelas para vigiar o grupo.",
+      "isTrue": true,
+      "explanation": "Enquanto o bando procura comida, um suricato fica de pé em um ponto alto e dá o alarme quando avista um predador.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-04",
+      "statement": "A baleia-azul é o maior animal vivo do planeta.",
+      "isTrue": true,
+      "explanation": "Ela pode passar de 30 metros de comprimento, o tamanho de um prédio de dez andares deitado.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-05",
+      "statement": "O avestruz enterra a cabeça na areia quando sente medo.",
+      "isTrue": false,
+      "explanation": "É um mito. O avestruz se deita no chão para se esconder e cava o ninho na terra, e daí vem a confusão.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-06",
+      "statement": "Os golfinhos dormem com metade do cérebro de cada vez.",
+      "isTrue": true,
+      "explanation": "Assim eles continuam nadando e subindo à superfície para respirar enquanto descansam.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-07",
+      "statement": "A girafa tem mais vértebras no pescoço do que o ser humano.",
+      "isTrue": false,
+      "explanation": "Os dois têm sete vértebras no pescoço. A diferença é que cada vértebra da girafa pode passar de 25 centímetros.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "nat-08",
+      "statement": "O camelo guarda água nas corcovas.",
+      "isTrue": false,
+      "explanation": "As corcovas guardam gordura, uma reserva de energia. A resistência à sede vem de um corpo que perde pouquíssima água.",
+      "category": "Natureza",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-01",
+      "statement": "O fêmur é o osso mais longo do corpo humano.",
+      "isTrue": true,
+      "explanation": "Ele fica na coxa e corresponde a cerca de um quarto da altura de uma pessoa.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-02",
+      "statement": "Usamos apenas 10% do nosso cérebro.",
+      "isTrue": false,
+      "explanation": "Exames de imagem mostram atividade em praticamente todas as áreas do cérebro ao longo do dia, inclusive durante o sono.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-03",
+      "statement": "O coração de um adulto bate mais de 100 mil vezes por dia.",
+      "isTrue": true,
+      "explanation": "Em repouso, são de 60 a 100 batidas por minuto. Somando as 24 horas, a conta passa de 100 mil.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-04",
+      "statement": "Os bebês nascem com mais ossos do que os adultos.",
+      "isTrue": true,
+      "explanation": "Um recém-nascido tem cerca de 300 ossos. Com o crescimento, vários se fundem e o adulto fica com 206.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-05",
+      "statement": "O cabelo continua crescendo depois que a pessoa morre.",
+      "isTrue": false,
+      "explanation": "A pele se retrai ao perder água, e por isso cabelo e unhas parecem mais compridos. O crescimento para.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-06",
+      "statement": "O sangue que corre dentro das veias é azul.",
+      "isTrue": false,
+      "explanation": "O sangue é sempre vermelho, só mais escuro quando tem menos oxigênio. As veias parecem azuis pelo jeito como a luz atravessa a pele.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-07",
+      "statement": "A pele é o maior órgão do corpo humano.",
+      "isTrue": true,
+      "explanation": "Em um adulto, ela cobre quase 2 metros quadrados e protege o corpo do calor, do frio e de micróbios.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "cor-08",
+      "statement": "Estalar os dedos causa artrite.",
+      "isTrue": false,
+      "explanation": "Os estudos não encontraram essa relação. O estalo vem de bolhas de gás que se formam no líquido das articulações.",
+      "category": "Corpo Humano",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-01",
+      "statement": "A luz do Sol leva cerca de 8 minutos para chegar à Terra.",
+      "isTrue": true,
+      "explanation": "Ela percorre quase 150 milhões de quilômetros. Ou seja, vemos o Sol como ele era 8 minutos atrás.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-02",
+      "statement": "A Grande Muralha da China pode ser vista da Lua a olho nu.",
+      "isTrue": false,
+      "explanation": "Ela é longa, mas estreita demais. Da Lua não dá para ver nenhuma construção humana sem equipamento.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-03",
+      "statement": "Mercúrio é o planeta mais quente do Sistema Solar, por ser o mais próximo do Sol.",
+      "isTrue": false,
+      "explanation": "O mais quente é Vênus. A atmosfera densa prende o calor e a superfície passa de 460 graus.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-04",
+      "statement": "O maior vulcão conhecido do Sistema Solar fica em Marte.",
+      "isTrue": true,
+      "explanation": "É o Monte Olimpo, com cerca de 22 quilômetros de altura, mais que o dobro do Everest.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-05",
+      "statement": "Não existe gravidade na Estação Espacial Internacional.",
+      "isTrue": false,
+      "explanation": "Lá a gravidade ainda é quase 90% da que sentimos na Terra. Os astronautas flutuam porque estão em queda livre ao redor do planeta.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-06",
+      "statement": "Saturno é o único planeta do Sistema Solar que tem anéis.",
+      "isTrue": false,
+      "explanation": "Júpiter, Urano e Netuno também têm anéis. Os de Saturno são apenas os mais visíveis.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-07",
+      "statement": "As pegadas deixadas na Lua podem durar milhões de anos.",
+      "isTrue": true,
+      "explanation": "Sem vento e sem chuva, nada apaga as marcas, a não ser a queda de pequenos meteoritos.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "esp-08",
+      "statement": "Júpiter é o maior planeta do Sistema Solar.",
+      "isTrue": true,
+      "explanation": "Caberiam mais de mil planetas do tamanho da Terra dentro dele.",
+      "category": "Espaço",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-01",
+      "statement": "O Brasil faz fronteira com todos os países da América do Sul.",
+      "isTrue": false,
+      "explanation": "Chile e Equador são os únicos países sul-americanos que não fazem fronteira com o Brasil.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-02",
+      "statement": "O Rio Amazonas é o rio com o maior volume de água do mundo.",
+      "isTrue": true,
+      "explanation": "Sozinho, ele responde por cerca de um quinto de toda a água doce que os rios lançam nos oceanos.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-03",
+      "statement": "Brasília sempre foi a capital do Brasil.",
+      "isTrue": false,
+      "explanation": "Antes dela, as capitais foram Salvador e o Rio de Janeiro. Brasília foi inaugurada em 1960.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-04",
+      "statement": "O Brasil é o maior país da América do Sul.",
+      "isTrue": true,
+      "explanation": "Ele ocupa quase metade do território do continente.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-05",
+      "statement": "O Brasil é o país com a maior biodiversidade do planeta.",
+      "isTrue": true,
+      "explanation": "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa e Pantanal abrigam milhares de espécies que só existem aqui.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-06",
+      "statement": "O Monte Everest é a montanha mais alta do mundo em relação ao nível do mar.",
+      "isTrue": true,
+      "explanation": "São 8.849 metros. Medida da base ao pico, a maior montanha é o Mauna Kea, no Havaí, que começa no fundo do mar.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-07",
+      "statement": "O Saara é o maior deserto do mundo.",
+      "isTrue": false,
+      "explanation": "Deserto é toda região onde quase não chove. Por esse critério, o maior é a Antártida. O Saara é o maior deserto quente.",
+      "category": "Geografia",
+      "imageKey": ""
+    },
+    {
+      "id": "geo-08",
+      "statement": "O Oceano Atlântico é o maior oceano da Terra.",
+      "isTrue": false,
+      "explanation": "O maior é o Pacífico. Ele cobre cerca de um terço do planeta, mais do que todos os continentes juntos.",
+      "category": "Geografia",
+      "imageKey": ""
+    }
+  ]
+}
